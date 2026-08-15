@@ -55,7 +55,7 @@
 
 **🚀 Self-Hosted GitHub Stats Instance**
 <br />
-[![Dhruvin's GitHub Stats](https://github-stats-extended-frontend-tau-six.vercel.app/api?username=dhb001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/dhb001)
+[![Dhruvin's GitHub Stats](https://github-stats-extended-frontend-tau-six.vercel.app/api?username=dhb001&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&v=1)](https://github.com/dhb001)
 
 [![Top Languages](https://github-stats-extended-frontend-tau-six.vercel.app/api/top-langs/?username=dhb001&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/dhb001)
 
@@ -63,7 +63,7 @@
 
 **🔥 Activity Streak Tracker (Bonus Integration)**
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=dhb001&theme=tokyonight&hide_border=true&type=svg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dhb001&theme=tokyonight&hide_border=true&type=svg&v=1)](https://git.io/streak-stats)
 
 </div>
 
