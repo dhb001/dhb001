@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Institution-Strathmore%20University-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Strathmore" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Networks-BB9AF7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
 </div>
----
 
 ### 🖥️ System & Environment Specification
 
