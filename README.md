@@ -1,18 +1,21 @@
 <div align="center">
   
-[![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Dhruvin%20Bhudia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Systems%20Architecture&descAlignY=58&descAlign=50)](https://github.com/dhb001)
+  <a href="https://github.com/dhb001">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=220&section=header&text=Dhruvin%20Bhudia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Systems%20Architecture&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=B.Sc.+Informatics+%26+Computer+Science+%40+Strathmore;Arch+Linux+Daily+Driver+%E2%80%A2+KDE+Plasma+Wayland;Building+Scalable+Cloud+%26+Distributed+Systems;Exploring+Neuro-Adaptive+SDN+%26+AI+Architectures;Embedded+IoT+Prototyping+with+ESP32)](https://github.com/dhb001)
+  <a href="https://github.com/dhb001">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=B.Sc.+Informatics+%26+Computer+Science+%40+Strathmore;Arch+Linux+Daily+Driver+%E2%80%A2+KDE+Plasma+Wayland;Building+Scalable+Cloud+%26+Distributed+Systems;Exploring+Neuro-Adaptive+SDN+%26+AI+Architectures;Embedded+IoT+Prototyping+with+ESP32" alt="Typing SVG" />
+  </a>
 
-<br />
+  <br />
 
-![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/Environment-Wayland%20%2F%20KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-![Strathmore](https://img.shields.io/badge/Institution-Strathmore%20University-003366?style=for-the-badge&logo=academia&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Networks-BB9AF7?style=for-the-badge&logo=target&logoColor=white)
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Environment-Wayland%20%2F%20KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE Plasma" />
+  <img src="https://img.shields.io/badge/Institution-Strathmore%20University-003366?style=for-the-badge&logo=academia&logoColor=white" alt="Strathmore" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Networks-BB9AF7?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
 
 </div>
-
 ---
 
 ### 🖥️ System & Environment Specification
