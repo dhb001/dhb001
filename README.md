@@ -78,5 +78,7 @@
 ---
 
 <div align="center">
-[![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=100&section=footer)](https://github.com/dhb001)
+  <a href="https://github.com/dhb001">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,18,24&height=100&section=footer" width="100%" alt="Footer Banner" />
+  </a>
 </div>
